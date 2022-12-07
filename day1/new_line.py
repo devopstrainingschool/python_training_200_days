@@ -1,0 +1,1 @@
+print("Hello world\nJe suis un kmer\n  vivant aux USa")
